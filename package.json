@@ -1,0 +1,19 @@
+{
+  "name": "hyperterm-dark-drifter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colinhemphill/hyperterm-light-drifter"
+  },
+  "version": "0.1.0",
+  "description": "A dark Hyper theme inspired by Heart Machine video game Hyper Light Drifter",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm", "hyper", "video game", "hyper light drifter"
+  ],
+  "author": {
+    "name": "Colin Hemphill",
+    "email": "colin@bombsheltersoftware.com",
+    "url": "http://www.colinhemphill.com"
+  },
+  "license": "ISC"
+}
