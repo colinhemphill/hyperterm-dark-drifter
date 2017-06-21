@@ -8,7 +8,7 @@ This theme is primarily based on the [campfire scene](http://www.heart-machine.c
 
 ## Install
 
-Install via Hyper plugin manager
+Install via Hyper plugin manager:
 
 ```
 hpm install hyperterm-dark-drifter
