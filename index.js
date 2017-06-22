@@ -5,7 +5,7 @@ exports.decorateConfig = (config) => {
     borderColor: '#282236 ',
     cursorColor: config.cursorColor || 'rgba(176, 47, 68, 1)',
     colors: {
-      black: '#0f0f0f',
+      black: '#131617',
       red: '#a11c37',
       green: '#2d815d',
       yellow: '#ffff9b',
@@ -13,7 +13,7 @@ exports.decorateConfig = (config) => {
       magenta: '#bf61a0',
       cyan: '#60cccc',
       white: '#efefef',
-      lightBlack: '#131617',
+      lightBlack: '#171d1f',
       lightRed: '#ce264a',
       lightGreen: '#61a95f',
       lightYellow: '#ffffbf',

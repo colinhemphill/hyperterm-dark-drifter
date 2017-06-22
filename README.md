@@ -24,6 +24,7 @@ plugins: ["hyperterm-dark-drifter"]
 
 ## Changelog
 
+- **0.2.2:** Slightly modify black shades.
 - **0.2.1:** README.
 - **0.2.0:** Change to block tabs instead of underlined tabs.
 - **0.1.2:** README.
