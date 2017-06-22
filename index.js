@@ -68,6 +68,25 @@ exports.decorateConfig = (config) => {
       .tab_hasActivity .tab_text, .tab_hasActivity:hover .tab_text {
         color: rgba(255, 255, 156, 0.8);
       }
+      .tab_icon {
+        right: 18px;
+        width: 18px;
+        height: 18px;
+        border-radius: 0px;
+        color: white;
+        font-weight: 700;
+        font-size: 18px;
+      }
+      .tab_icon:hover {
+        background-color: rgba(176, 47, 68, 1) !important;
+      }
+      .tab_shape {
+        left: 5px;
+        top: 5px;
+        width: 8px;
+        height: 8px;
+        shape-rendering: initial !important;
+      }
     `
   });
 }
