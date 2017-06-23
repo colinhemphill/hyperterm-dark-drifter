@@ -2,7 +2,7 @@
 
 A (dark) [Hyper](https://hyper.is/) theme inspired by [Heart Machine's](http://www.heart-machine.com/) Hyper Light Drifter.
 
-[![Screenshot](https://raw.githubusercontent.com/colinhemphill/hyperterm-dark-drifter/master/images/screenshot-color-test.png)](https://raw.githubusercontent.com/colinhemphill/hyperterm-dark-drifter/master/images/screenshot-color-test.png)
+[![Screenshot](https://raw.githubusercontent.com/colinhemphill/hyperterm-dark-drifter/master/images/demo.gif)](https://raw.githubusercontent.com/colinhemphill/hyperterm-dark-drifter/master/images/demo.gif)
 
 This theme is primarily based on the [campfire scene](http://www.heart-machine.com/wp-content/uploads/2013/11/HLD_Screenshot_01_camp_1080.png), among other promo materials and screenshots from HLD.
 
@@ -24,6 +24,7 @@ plugins: ["hyperterm-dark-drifter"]
 
 ## Changelog
 
+- **0.2.4:** Modify green and black shades.
 - **0.2.3:** Edit tab close icons.
 - **0.2.2:** Slightly modify black shades.
 - **0.2.1:** README.

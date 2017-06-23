@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/colinhemphill/hyperterm-dark-drifter"
   },
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "A dark Hyper theme inspired by Heart Machine video game Hyper Light Drifter",
   "main": "index.js",
   "keywords": [
