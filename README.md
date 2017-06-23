@@ -24,6 +24,7 @@ plugins: ["hyperterm-dark-drifter"]
 
 ## Changelog
 
+- **0.2.5:** Modify black shades.
 - **0.2.4:** Modify green and black shades.
 - **0.2.3:** Edit tab close icons.
 - **0.2.2:** Slightly modify black shades.
